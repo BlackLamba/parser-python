@@ -1,0 +1,20 @@
+# Виртуальное окружение
+.venv/
+
+# PyCharm, VSCode и другие IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Секреты (если появятся)
+.env
+
+# Данные
+*.json
+
+# Логи и временные файлы
+*.log
+.DS_Store
